@@ -10,4 +10,6 @@ docker run -e "ACCEPT_EULA=Y"
  --name legacy-mssql
  -d my-mssql-image
 
- 
+'''
+
+- install the req: pip install -r requirements.txt
